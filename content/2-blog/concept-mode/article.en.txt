@@ -1,0 +1,17 @@
+Title: Concept Mode
+
+----
+
+Date: 2016-03-17
+
+----
+
+Author: starckio
+
+----
+
+Tags: 
+
+----
+
+Text: Every text-file starting with ‘0-’ will be ignored. Only people with a direct link to this page are able to view it. It’s a nice feature should you want to write something before actually publishing it.

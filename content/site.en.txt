@@ -1,0 +1,13 @@
+Title: Comments Kit
+
+----
+
+Author: Christopher Boutillé
+
+----
+
+Description: Kirby is awesome
+
+----
+
+Keywords: Kirby,CMS,file-based
